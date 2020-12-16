@@ -2,9 +2,6 @@
 
 # Beginner Projects 
 1. MAD LIBS GENERATOR 
-
-<br />
-
 2. NUMBER GUESSING GAME ✓
 
 <br />
