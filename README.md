@@ -1,13 +1,13 @@
 # Python Projects
 
-## Beginner Projects 
+### Beginner Projects 
 1. MAD LIBS GENERATOR 
 2. NUMBER GUESSING GAME ✓
 3. ROCK PAPER SCISSORS ✓
 4. WEBSITE BLOCKER
 5. BINARY SEARCH ALGORITHM
 
-## Intermediate Projects 
+### Intermediate Projects 
 1. CALCULATOR 
 2. ALARM CLOCK 
 3. TIC TAC TOE 
